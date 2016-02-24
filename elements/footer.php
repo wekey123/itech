@@ -32,7 +32,7 @@
                         </p>
                     </div>
                      <div class="col-md-4 col-sm-12 center-media-sm">
-                        <div class="widget-wr">
+                        <!--<div class="widget-wr">
                             <div class="fb-page" data-href="https://www.facebook.com/templatemonster" data-width="290"
                                  data-height="240" data-small-header="true" data-adapt-container-width="true"
                                  data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
@@ -42,7 +42,8 @@
                                     </blockquote>
                                 </div>
                             </div>
-                        </div>
+                        </div>-->
+                        <?php include 'map.php'; ?>
                     </div>
                 </div>
 

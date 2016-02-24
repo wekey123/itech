@@ -47,14 +47,13 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-5 col-xs-12 col-off-xs center-media-lg">
-                                    <span class="icon-wrap fa-tablet"></span>
+                                    <span class="icon-wrap fa-cloud"></span>
                                 </div>
                                 <div class="col-sm-7 col-xs-12 col-off-xs center-media-xs">
-                                    <h2><strong>BlackBerry Application</strong><br>
-                                        BlackBerry Development</h2>
+                                    <h2><strong>Cloud Computing Services</strong><br>
+                                        Cloud Infrastructure</h2>
 
-                                    <p class="font-primary indent">Itechmatic has an expert team to develop BlackBerry applications
-									. It has established themselves as one of the pioneer blackberry application development</p>
+                                    <p class="font-primary indent">Enterprise Cloud Computing & Networks Server Infrastructure MaintenanceStorage, Backup and Disaster Recovery Enterprise Infrastructure Architecture</p>
 
                                     <div class="btn-wrap">
                                         <a href="#" class="btn-primary btn-primary__md">Learn about us</a>
@@ -95,15 +94,13 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-5 col-xs-12 col-off-xs center-media-lg">
-                                    <span class="icon-wrap fa-windows"></span>
+                                    <span class="icon-wrap fa-shopping-cart"></span>
                                 </div>
                                 <div class="col-sm-7 col-xs-12 col-off-xs center-media-xs">
-                                    <h2><strong>Windows Application</strong><br>
-                                        Windows Application Development</h2>
+                                    <h2><strong>E-commerce Application</strong><br>
+                                        E-commerce & Web Development</h2>
 
-                                    <p class="font-primary indent">Itechmatic offers Enterprise Mobile Application development 
-									for Android Platform.
-									Android provides support of Java Language for developers.</p>
+                                    <p class="font-primary indent">E-commerce is the buying and selling of goods and services, or the transmitting of funds or data, over an electronic network, primarily the Internet.</p>
 
                                     <div class="btn-wrap">
                                         <a href="#" class="btn-primary btn-primary__md">Learn about us</a>
@@ -123,62 +120,56 @@
 
                 <div class="row row__off  grid-off">
                     <div class="col-md-4 col-sm-6 col-xs-12 wow fadeInLeft" data-wow-delay="0.2s">
-                        <div class="icon-block fa-apple">
+                        <div class="icon-block fa-mobile">
                             <h5>
-                                <a href='#'>iPhone Applications</a>
+                                <a href='#'>Mobile Application Services</a>
                             </h5>
-                            <p>The introductions of iPhones were one of the best things that happened to the industry. 
-							The use of iPhone App Stores allows us to build applications suited for the needs of the industry. </p>
+                            <p>We offer mobile applications for iPhone/iPad, Android mobile devices that help organizations to stay connected with their customers. </p>
                         </div>
 
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-12 wow fadeInLeft" data-wow-delay="0.4s">
-                        <div class="icon-block fa-android">
+                        <div class="icon-block fa-cloud">
                             <h5>
-                                <a href='#'>Android Applications</a>
+                                <a href='#'>Cloud Computing Services</a>
                             </h5>
-                            <p>Itechmatic offers Enterprise Mobile Application development for Android Platform. 
-							Android provides support of Java Language for developers</p>
+                            <p>We offer world Class cloud computing Infrastructure. We provide a world class security to our cloud computing environment.</p>
                         </div>
 
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-12 wow fadeInLeft" data-wow-delay="0.6s">
-                        <div class="icon-block fa-mobile">
+                        <div class="icon-block fa-sitemap">
                             <h5>
-                                <a href='#'>Black Berry Applications</a>
+                                <a href='#'>IT Application Services</a>
                             </h5>
-                            <p>Itechmatic has an expert team to develop BlackBerry applications.
-							It has established themselves as one of the pioneer blackberry application </p>
+                            <p>We offer solutions that will enable you to migrate from your existing IT environment to a newer, more cost-effective one.</p>
                         </div>
 
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-12 wow fadeInRight" data-wow-delay="0.8s">
-                        <div class="icon-block fa-windows">
+                        <div class="icon-block fa-shopping-cart">
                             <h5>
-                                <a href='#'>Windows Applications</a>
+                                <a href='#'>E-commerce Development</a>
                             </h5>
-                            <p>We have a team of experienced and expert Windows Mobile developers who have
-							been developing all kinds of windows mobile applications </p>
+                            <p>E-commerce is the buying and selling of goods and services, or the transmitting of funds or data, over an electronic network, primarily the Internet.</p>
                         </div>
 
                     </div>
-                    <div class="col-md-4 col-sm-6 col-xs-12 wow fadeInRight" data-wow-delay="1s">
-                        <div class="icon-block fa-cogs">
+                     <div class="col-md-4 col-sm-6 col-xs-12 wow fadeInRight" data-wow-delay="0.8s">
+                        <div class="icon-block fa-connectdevelop">
                             <h5>
-                                <a href='#'>Infrastructure & Cloud Computing</a>
+                                <a href='#'>Web Development</a>
                             </h5>
-                            <p>We offer solutions that will enable you to migrate from your existing IT environment to a newer,
-								more cost-effective one. We analyze your application environment. </p>
+                            <p>Developing the simplest static page to the most complex web-based internet applications, electronic businesses, and social network services.</p>
                         </div>
 
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-12 wow fadeInRight" data-wow-delay="1.2s">
-                        <div class="icon-block fa-shield">
+                        <div class="icon-block fa-support">
                             <h5>
-                                <a href='#'>Oracle Applications</a>
+                                <a href='#'>Support</a>
                             </h5>
-                            <p>Our oracle practice specializes in helping clients implement and maintain Oracle's E-Business 
-							Suite and PeopleSoft. Benefit from the strength of our oracle apps</p>
+                            <p>We provide 24X7 technical supports to help the clients in using the final product.</p>
                         </div>
 
                     </div>
@@ -213,51 +204,46 @@
                             <a href='#'>CRM Services</a>
                         </h5>
                         <p>Salesforce can tremendously improve workforce productivity and customer satisfaction. However, implementing Salesforce properly can be complex, time-consuming, and expensive for an organization without prior experience. With our many years of experience, we deliver quality Salesforce Consulting services quickly and cost-effectively, at minimal risk to our clients.</p>
-                        <a href="#" class="btn-primary">Learn more</a>
                     </div>
                     <div class="col-md-4 col-sm-12 wow fadeInRight" data-wow-delay="0.4s">
                         <h5>
                             <a href='#'>Professional Services & Testing</a>
                         </h5>
                         <p>We helps ISVs deliver profitable, high quality professional services to their customers. Whether working as an extension of your existing professional services organization, setting up a new organization or assuming full responsibility for the professional services function, our team will deliver a full suite of services that drives revenue and delights customers.</p>
-                        <a href="#" class="btn-primary">Learn more</a>
                     </div>
                     <div class="col-md-4 col-sm-12 wow fadeInRight" data-wow-delay="0.6s">
                         <h5>
                             <a href='#'>SalesForce Analytics</a>
                         </h5>
                         <p>Most salesforce.com customers need to rapidly synchronize sales data - such as leads, accounts, opportunities and forecasts - with a variety of internal systems, including ERP, CRM and custom applications.</p>
-                        <a href="#" class="btn-primary">Learn more</a>
                     </div>
                 </div>
             </div>
         </section>
         
-        <section class="well-3">
+        <section class="well-3" style="padding-top:0px;">
             <div class="container">
                 <h3><strong> Cloud </strong> Services</h3>
 
                 <div class="row row__off-1">
                     <div class="col-md-4 col-sm-12 wow fadeInRight" data-wow-delay="0.2s">
                         <h5>
-                            <a href='#'>CRM Services</a>
+                            <a href='#'>Infrastructure As A Service ( IAAS)</a>
                         </h5>
-                        <p>Salesforce can tremendously improve workforce productivity and customer satisfaction. However, implementing Salesforce properly can be complex, time-consuming, and expensive for an organization without prior experience. With our many years of experience, we deliver quality Salesforce Consulting services quickly and cost-effectively, at minimal risk to our clients.</p>
-                        <a href="#" class="btn-primary">Learn more</a>
+                        <p>Infrastructure as a Service (IaaS) is a form of cloud computing that provides virtualized computing resources over the Internet.IaaS platforms offer highly scalable resources that can be adjusted on-demand. This makes IaaS well-suited for workloads that are temporary, experimental or change unexpectedly.</p>
+                        <!--<a href="#" class="btn-primary">Learn more</a>-->
                     </div>
                     <div class="col-md-4 col-sm-12 wow fadeInRight" data-wow-delay="0.4s">
                         <h5>
-                            <a href='#'>Professional Services & Testing</a>
+                            <a href='#'>Software As A Service ( SAAS)</a>
                         </h5>
-                        <p>We helps ISVs deliver profitable, high quality professional services to their customers. Whether working as an extension of your existing professional services organization, setting up a new organization or assuming full responsibility for the professional services function, our team will deliver a full suite of services that drives revenue and delights customers.</p>
-                        <a href="#" class="btn-primary">Learn more</a>
+                        <p>Software as a Service (SaaS) is a software distribution model in which applications are hosted by a vendor or service provider and made available to customers over a network, typically the Internet.</p>
                     </div>
                     <div class="col-md-4 col-sm-12 wow fadeInRight" data-wow-delay="0.6s">
                         <h5>
-                            <a href='#'>SalesForce Analytics</a>
+                            <a href='#'>Platform As A Service ( PAAS )</a>
                         </h5>
-                        <p>Most salesforce.com customers need to rapidly synchronize sales data - such as leads, accounts, opportunities and forecasts - with a variety of internal systems, including ERP, CRM and custom applications.</p>
-                        <a href="#" class="btn-primary">Learn more</a>
+                        <p>Platform as a service (PaaS) is a cloud computing model that delivers applications over the Internet. In a PaaS model, a cloud provider delivers hardware and software tools -- usually those needed for application development -- to its users as a service.</p>
                     </div>
                 </div>
             </div>
@@ -288,7 +274,6 @@
                               FOOTER
     =========================================================-->
     <?php include 'elements/footer.php'; ?>
-     <?php include 'elements/map.php'; ?>
      </footer>
 </div>
 
