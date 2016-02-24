@@ -15,13 +15,13 @@
                                     <a href="cloud.php">Cloud Services</a>
                                 </li>
                                 <li>
-                                    <a href="#">Android Application</a>
+                                    <a href="IT-service.php">IT Services</a>
                                 </li>
                                 <li>
-                                    <a href="#">Blackberry Applicaton</a>
+                                    <a href="mobileservices.php">Mobile Services</a>
                                 </li>
                                 <li>
-                                    <a href="#">Windows Application</a>
+                                    <a href="#">E-Commerce Services</a>
                                 </li>
 								<li>
                                     <a href="#">Others</a>
