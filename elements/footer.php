@@ -4,7 +4,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-4 col-sm-6">
-                        <h4>About</h4>
+                        <h4>About Us</h4>
 
                         <p>We are specialized in providing customized mobile enterprise solutions for Insurance companies.
 						Our management team is lead by experts with more than 15 years of experience 
@@ -13,7 +13,7 @@
 
                     </div>
                     <div class="col-md-4 col-sm-6">
-                        <h4>Contacts</h4>
+                        <h4>Contact Us</h4>
                         <address class="footer-term-list">
                             <p><span class="font-primary">Address:</span> 4676 Lakeview Ave, Suite 107 Yorba Linda CA-92886</p>
                             <dl>

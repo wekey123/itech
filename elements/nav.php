@@ -9,21 +9,21 @@
 
                         </li>
                         <li>
-                            <a href="services.php">Services</a>
+                            <a href="#">Services</a>
                             <ul>
                                 <li>
-                                    <a href="cloud.php">Cloud Services</a>
+                                    <a href="cloud.php">Cloud Application Services</a>
                                 </li>
                                 <li>
-                                    <a href="IT-service.php">IT Services</a>
+                                    <a href="IT-service.php">IT Application Services</a>
                                 </li>
                                 <li>
-                                    <a href="mobileservices.php">Mobile Services</a>
+                                    <a href="mobileservices.php">Mobile Application Services</a>
                                 </li>
                                 <li>
                                     <a href="#">E-Commerce Services</a>
                                 </li>
-								<li>
+								<!---<li>
                                     <a href="#">Others</a>
                                     <ul style="width:175px">
                                         <li>
@@ -36,7 +36,7 @@
                                             <a href="#">IT Solution</a>
                                         </li>
                                     </ul>
-                                </li>
+                                </li>-->
                                 
                             </ul>
                         </li>

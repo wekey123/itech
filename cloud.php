@@ -15,10 +15,10 @@
     <!--========================================================
                               CONTENT
     =========================================================-->
-    <main style="border-bottom:1px solid #ccc">
+    <main style="border-bottom:1px solid #ccc;">
         <section class="well-1 well-1__off-1 divider-xs well-xs-1">
             <div class="container">
-                <h3><strong>Our</strong> Cloud services</h3>
+                <h3><strong>Cloud</strong> Application services</h3>
 
                 <div class="row row__off-1 grid-off-lg">
                     <div class="col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="0.4s">
@@ -354,7 +354,6 @@ solutions to specific operational
                               FOOTER
     =========================================================-->
     <?php include 'elements/footer.php'; ?>
-    </footer>
 </div>
 
 <script src="js/script.js"></script>
