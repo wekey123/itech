@@ -274,7 +274,7 @@
                               FOOTER
     =========================================================-->
     <?php include 'elements/footer.php'; ?>
-     </footer>
+    
 </div>
 
 <script src="js/script.js"></script>

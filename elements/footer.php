@@ -52,3 +52,4 @@
                    All rights Reserved. </p>
             </div>
         </section>
+</footer>
