@@ -12,7 +12,7 @@
                             <a href="services.php">Services</a>
                             <ul>
                                 <li>
-                                    <a href="#">iPhone Application</a>
+                                    <a href="cloud.php">Cloud Services</a>
                                 </li>
                                 <li>
                                     <a href="#">Android Application</a>
