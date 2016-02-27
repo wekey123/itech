@@ -80,6 +80,7 @@ label{
                        <address class="addr"><p class="h5">Apply For a Job ?</p></address>
 
                         <form class='mailform' method="post" action="">
+						<input type="hidden" name="form-type" value="career"/>
                             <fieldset>
                                 <div class="mail-wrap">
 
@@ -125,7 +126,7 @@ label{
                 </div>
             </div>
         </section>
-       <?php include 'elements/map.php'; ?>
+       <?php //include 'elements/map.php'; ?>
 
 
     </main>

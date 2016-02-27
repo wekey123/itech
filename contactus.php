@@ -22,27 +22,27 @@
                 <h3><strong>Contact</strong> us</h3>
 
                 <div class="row row__off-2">
-                    <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="col-md-4 col-sm-4 col-xs-12" style="font-family:Arial, Helvetica, sans-serif">
                         <h4>Address</h4>
-                        <address class="addr"><p class="h5">8901 Marmora Road,<br>
-                                                            Glasgow, D04 89GR.</p>
+                        <address class="addr"><p class="h5">4676 Lakeview Ave, <br>
+                                                            Suite 107 Yorba Linda CA-92886</p>
                             <dl>
                                 <dt>Freephone:</dt>
                                 <dd>
-                                    <a href="callto:#">+1 800 559 6580</a>
+                                    <a href="callto:#">+1 714-646-3709</a>
                                 </dd>
                                 <dt>Telephone:</dt>
                                 <dd>
-                                    <a href="callto:#">+1 800 603 6035</a>
+                                    <a href="callto:#">+1 800 592 5139</a>
                                 </dd>
                                 <dt>FAX:</dt>
                                 <dd>
-                                    <a href="callto:#">+1 800 889 9898</a>
+                                    <a href="callto:#">+1 888 334 8436</a>
                                 </dd>
                             </dl>
                         </address>
                         <p class="mail-secondary">E-mail:
-                            <a href="mailto:#" class="">mail@demolink.org</a>
+                            <a href="mailto:#" class="">contact@itechmatics.com</a>
                         </p>
                     </div>
                     <div class="col-md-8 col-sm-8 col-xs-12">
@@ -89,7 +89,7 @@
                 </div>
             </div>
         </section>
-       <?php include 'elements/map.php'; ?>
+       <?php //include 'elements/map.php'; ?>
 
 
     </main>
