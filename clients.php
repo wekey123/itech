@@ -21,7 +21,7 @@ img{
     <!--========================================================
                               CONTENT
     =========================================================-->
-    <main>
+    <main style="border-bottom:1px solid #ccc;">
         <section class="well-4 well-4__off divider-xs well-xs-1">
             <div class="container">
                 <h3><strong>Our</strong> clients</h3>

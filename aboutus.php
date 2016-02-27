@@ -80,26 +80,26 @@
                         <ul class="icon-block-wrap">
                       		<li class="icon-block fa-cloud">
                                 <h5>
-                                <a href='javascript:void(0);'>Cloud Infrastructure</a>
+                                <a href='cloud.php'>Cloud Infrastructure</a>
 								</h5>
 								<p>Enterprise Cloud Computing & Networks Server Infrastructure MaintenanceStorage, Backup and Disaster Recovery Enterprise Infrastructure Architecture</p>
                             </li>
 							<li class="icon-block fa-shopping-cart">
                                 <h5>
-                                <a href='javascript:void(0);'>E-commerce Applications</a>
+                                <a href='ecommerce.php'>E-commerce Applications</a>
 								</h5>
 								<p>E-commerce is the buying and selling of goods and services, or the transmitting of funds or data, over an electronic network, primarily the Internet.</p>
                             </li>
                             <li class="icon-block  fa-apple ">
                                 <h5>
-                                <a href='javascript:void(0);'>iPhone Applications</a>
+                                <a href='mobileservices.php'>iPhone Applications</a>
                             </h5>
                             <p>The introductions of iPhones were one of the best things that happened to the industry. 
 							The use of iPhone App Stores allows us to build applications suited for the needs of the industry. </p>
                             </li>
                             <li class="icon-block fa-android">
                                 <h5>
-                                <a href='javascript:void(0);'>Android Applications</a>
+                                <a href='mobileservices.php'>Android Applications</a>
                             </h5>
                             <p>Itechmatic offers Enterprise Mobile Application development for Android Platform. 
 							Android provides support of Java Language for developers</p>
