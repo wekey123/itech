@@ -76,69 +76,41 @@
         </section>
         <section class="well-4 well-4__off">
             <div class="container">
-                <h3><strong>Mobile</strong> Portfolio</h3>
+                <h3><strong>E-Commerce & Web </strong>Applications</h3>
 
                 <div class="row row__off-1">
                     <div class="col-md-4 col-sm-12 wow fadeInRight" data-wow-delay="0.2s">
                         <div class="center-media-sm offset">
-                            <img src="images/mobile_banking.png" alt=""/>
+                            <img src="images/magento_logo.png" alt=""/>
                         </div>
                         <h5>
-                            <a href='javascript:void(0);'>Mobile Banking</a>
+                            <a href='javascript:void(0);'>Magento</a>
                         </h5>
-                        <p class="offset" style="text-align:justify">Itechmatics Inc is one of the niche banking software
-companies which give financial institutions a
-competitive edge by integrating state-of-the-art
-technology with a multitude of pioneering mobile
-marketing and advertising features.
-The outcome is a secure and scalable platform that helps
-your organization to increase loyalty, acquire new
-customers, retain the existing customers, cross-sell
-products plus much more.</p>
+                        <p class="offset" style="text-align:justify">Enhance your ecommerce business sales with Magento Development Services. Only ecommerce solution that sells 24/7. Expert Magento Developers facilitate customers to reach business for 24 hours, 7 days in no time.</p>
+<p>Magento is a feature-rich, professional Open Source eCommerce platform independent from third party plug-ins, with greater flexibility and scalability.</p>
                         <!--<a href="#" class="btn-primary">Learn more</a>-->
                     </div>
                     <div class="col-md-4 col-sm-12 wow fadeInRight" data-wow-delay="0.4s">
                         <div class="center-media-sm offset">
-                            <img src="images/mobile_health.png" alt=""/>
+                            <img src="images/shopify_logo.png" alt=""/>
                         </div>
                         <h5>
-                            <a href='javascript:void(0);'>Health Care</a>
+                            <a href='javascript:void(0);'>Shopify</a>
                         </h5>
-                        <p class="offset" style="text-align:justify">
-						Our Health Care Mobile App is another way of
-helping your customers to improve their health and
-well-being, so we want you to have the simplest,
-easiest & the most innovative mobile Health App for
-your Customers!!
-Be it the Health Insurance plan coverage details,
-wellness information, checking of claims status,
-access ID card info, finding a doctor or hospital or
-emergency care centers and pharmacies,
-Comprehensive record-keeping of your personal
-medical information, our Health Care Mobile App
-can execute instantly!!
+                        <p class="offset" style="text-align:justify">Shopify is a complete ecommerce solution that allows you to set up an online store to sell your goods. It lets you organize your products, customize your storefront, accept credit card payments, track and respond to orders.</p>
+                       <p>We focus on making commerce better for everyone, so businesses can focus on what they do best: building and selling their products. Today, merchants use our platform to manage every aspect of their business — from products to orders to customers, selling online, in retail stores, and on the go.
 						</p>
                         <!--<a href="#" class="btn-primary">Learn more</a>-->
                     </div>
                     <div class="col-md-4 col-sm-12 wow fadeInRight" data-wow-delay="0.6s">
                         <div class="center-media-sm offset">
-                            <img src="images/mobile_travel.png" alt=""/>
+                            <img src="images/angular_logo.png" alt=""/>
                         </div>
                         <h5>
-                            <a href='javascript:void(0);'>Travel & Hospitality (Flight, Car, Hotel)</a>
+                            <a href='javascript:void(0);'>AngularJS</a>
                         </h5>
                         <p class="offset" style="text-align:justify">
-						The recent research shows that 80 percent of mobile
-hotel bookings are for stays for that night only. For
-example when traveler opens the app, it assumes
-that the traveler is searching for a hotel in the
-location where the traveler is currently in and
-delivers availability and rate on the search screen.
-Optimized travel app for mobile channel, the travel
-app is with you wherever you go. The app
-incorporates flight search, car & hotel booking,
-Flight Tracker and Save My Trips, so you can simply
-manage your itinerary.
+                        AngularJS is an open-source web application framework mainly maintained by Google and by a community of individuals and corporations to address many of the challenges encountered in developing single-page applications. It aims to simplify both the development and the testing of such applications by providing a framework for client-side model–view–controller (MVC) and model–view–viewmodel (MVVM) architectures, along with components commonly used in rich Internet applications.
 						</p>
                         <!--<a href="#" class="btn-primary">Learn more</a>-->
                     </div>
@@ -151,22 +123,8 @@ manage your itinerary.
 
                 <div class="container wow fadeInUp">
                     <h2><strong>Our </strong>Recommendation to your Business</h2>
-
-                    <p class="offset">We recommend that you view your mobile strategy as a
-movement that can be transformational to your project,
-Company or Organization. It is about discovering how to
-infuse a new medium into your business and build an
-innovative platform that will take you not just into the
-next year, but into the next decade. For example:
-For a sales-based organization, you could use the mobile
-web to get information to your sales people in the field,
-allowing them to bring up live pricing and estimates
-while they are at lunch with a Client.
-For health care, you could use mobile devices to provide
-records; access to formularies, policies, and procedures;
-even patient charts—and all at the patient’s bedside.
+                    <p class="offset">We recommend that PHP's high popularity, a lot of developers contribute in developing various helpful APIs and entensions that helps other developers in easy development of their projects. It's Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. Websites like Facebook, yahoo, wikipedia and many others use PHP language. PHP is used by 82.0% of all the websites whose server-side programming language 
 					</p>
-                    <a href="#" class="btn-primary btn-primary__md btn-off">Learn more</a>
                 </div>
 
             </div>
