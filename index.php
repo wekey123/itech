@@ -18,7 +18,53 @@
     <main>
         <section class="camera_container">
             <div id="camera" class="camera_wrap">
-                <div data-src="images/page-1_slide01.jpg">
+            
+                <div data-src="images/page-1_slide02.jpg">
+                    <div class="camera_caption fadeIn">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-5 col-xs-12 col-off-xs center-media-lg">
+                                    <span class="icon-wrap fa-cloud"></span>
+                                </div>
+                                <div class="col-sm-7 col-xs-12 col-off-xs center-media-xs">
+                                    <h2><strong>Cloud Computing Services</strong><br>
+                                        Cloud Infrastructure</h2>
+
+                                    <p class="font-primary indent">Enterprise Cloud Computing & Networks Server Infrastructure MaintenanceStorage, Backup and Disaster Recovery Enterprise Infrastructure Architecture</p>
+
+                                    <div class="btn-wrap">
+                                        <a href="cloud.php" class="btn-primary btn-primary__md">Learn about us</a>
+                                        <!--<a href="#" class="btn-default btn-default__md">View our services</a>-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div data-src="images/page-1_slide03.jpg">
+                    <div class="camera_caption fadeIn">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-5 col-xs-12 col-off-xs center-media-lg">
+                                    <span class="icon-wrap fa-shopping-cart"></span>
+                                </div>
+                                <div class="col-sm-7 col-xs-12 col-off-xs center-media-xs">
+                                    <h2><strong>E-commerce Application</strong><br>
+                                        E-commerce & Web Development</h2>
+
+                                    <p class="font-primary indent">E-commerce is the buying and selling of goods and services, or the transmitting of funds or data, over an electronic network, primarily the Internet.</p>
+
+                                    <div class="btn-wrap">
+                                        <a href="#" class="btn-primary btn-primary__md">Learn about us</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div data-src="images/page-1_slide02.jpg">
                     <div class="camera_caption fadeIn">
                         <div class="container">
                             <div class="row">
@@ -34,36 +80,14 @@
 									App Stores allows us to build applications suited for the needs of the industry. .</p>
 
                                     <div class="btn-wrap">
-                                        <a href="#" class="btn-primary btn-primary__md">Learn about us</a>
-                                        <a href="#" class="btn-default btn-default__md">View our services</a>
+                                        <a href="mobileservices.php" class="btn-primary btn-primary__md">Learn about us</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div data-src="images/page-1_slide02.jpg">
-                    <div class="camera_caption fadeIn">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-sm-5 col-xs-12 col-off-xs center-media-lg">
-                                    <span class="icon-wrap fa-cloud"></span>
-                                </div>
-                                <div class="col-sm-7 col-xs-12 col-off-xs center-media-xs">
-                                    <h2><strong>Cloud Computing Services</strong><br>
-                                        Cloud Infrastructure</h2>
-
-                                    <p class="font-primary indent">Enterprise Cloud Computing & Networks Server Infrastructure MaintenanceStorage, Backup and Disaster Recovery Enterprise Infrastructure Architecture</p>
-
-                                    <div class="btn-wrap">
-                                        <a href="#" class="btn-primary btn-primary__md">Learn about us</a>
-                                        <a href="#" class="btn-default btn-default__md">View our services</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                
                 <div data-src="images/page-1_slide03.jpg">
                     <div class="camera_caption fadeIn">
                         <div class="container">
@@ -80,38 +104,14 @@
 									Android provides support of Java Language for developers.</p>
 
                                     <div class="btn-wrap">
-                                        <a href="#" class="btn-primary btn-primary__md">Learn about us</a>
-                                        <a href="#" class="btn-default btn-default__md">View our services</a>
+                                        <a href="mobileservices.php" class="btn-primary btn-primary__md">Learn about us</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-				
-				<div data-src="images/page-1_slide01.jpg">
-                    <div class="camera_caption fadeIn">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-sm-5 col-xs-12 col-off-xs center-media-lg">
-                                    <span class="icon-wrap fa-shopping-cart"></span>
-                                </div>
-                                <div class="col-sm-7 col-xs-12 col-off-xs center-media-xs">
-                                    <h2><strong>E-commerce Application</strong><br>
-                                        E-commerce & Web Development</h2>
 
-                                    <p class="font-primary indent">E-commerce is the buying and selling of goods and services, or the transmitting of funds or data, over an electronic network, primarily the Internet.</p>
-
-                                    <div class="btn-wrap">
-                                        <a href="#" class="btn-primary btn-primary__md">Learn about us</a>
-                                        <a href="#" class="btn-default btn-default__md">View our services</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-				
             </div>
         </section>
         <section class="well-1">
@@ -122,7 +122,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 wow fadeInLeft" data-wow-delay="0.2s">
                         <div class="icon-block fa-mobile">
                             <h5>
-                                <a href='#'>Mobile Application Services</a>
+                                <a href='mobileservices.php'>Mobile Application Services</a>
                             </h5>
                             <p>We offer mobile applications for iPhone/iPad, Android mobile devices that help organizations to stay connected with their customers. </p>
                         </div>
@@ -131,7 +131,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 wow fadeInLeft" data-wow-delay="0.4s">
                         <div class="icon-block fa-cloud">
                             <h5>
-                                <a href='#'>Cloud Computing Services</a>
+                                <a href='cloud.php'>Cloud Computing Services</a>
                             </h5>
                             <p>We offer world Class cloud computing Infrastructure. We provide a world class security to our cloud computing environment.</p>
                         </div>
@@ -140,7 +140,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 wow fadeInLeft" data-wow-delay="0.6s">
                         <div class="icon-block fa-sitemap">
                             <h5>
-                                <a href='#'>IT Application Services</a>
+                                <a href='IT-service.php'>IT Application Services</a>
                             </h5>
                             <p>We offer solutions that will enable you to migrate from your existing IT environment to a newer, more cost-effective one.</p>
                         </div>
