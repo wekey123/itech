@@ -76,9 +76,6 @@ img{
                 </div>
             </div>
         </section>
-       <?php include 'elements/map.php'; ?>
-
-
     </main>
 
     <!--========================================================

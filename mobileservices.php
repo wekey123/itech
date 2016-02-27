@@ -26,7 +26,7 @@
                     <div class="col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="0.2s">
                         <div class="icon-block icon-block__lg  fa-apple">
                             <h5>
-                                <a href='#'>iPhone Application</a>
+                                <a href='javascript:void(0);'>iPhone Application</a>
                             </h5>
                             <p>Itechmatics design & development team has been creating iPhone applications since the App store first opened, we have experience in building Insurance, Banking, Health Care, Retail and Travel Applications.</p> 
 <p>Working through each phase of development from defining a scope of work to rigorous testing and app deployment, ITechmatics project management is well versed in making sure that our projects finish on time, in budget and within scope.</p>
@@ -35,7 +35,7 @@
                     <div class="col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="0.4s">
                         <div class="icon-block icon-block__lg fa-android ">
                             <h5>
-                                <a href='#'>Android Application</a>
+                                <a href='javascript:void(0);'>Android Application</a>
                             </h5>
                             <p>Itechmatics has a dedicated Android development team for creating innovative apps on Android platform.</p>
                             <p>The technical expertise of our team enables us to deliver applications with rich UI quality and better performance. Our team consists of both skilled designers and developers who help us in designing, developing, delivering and launching the app within short duration. Our Android developers have experience and expertise to help you with all Android development needs.</p>
@@ -93,7 +93,7 @@ mobile applications.
                             <img src="images/mobile_banking.png" alt=""/>
                         </div>
                         <h5>
-                            <a href='#'>Mobile Banking</a>
+                            <a href='javascript:void(0);'>Mobile Banking</a>
                         </h5>
                         <p class="offset" style="text-align:justify">Itechmatics Inc is one of the niche banking software
 companies which give financial institutions a
@@ -111,7 +111,7 @@ products plus much more.</p>
                             <img src="images/mobile_health.png" alt=""/>
                         </div>
                         <h5>
-                            <a href='#'>Health Care</a>
+                            <a href='javascript:void(0);'>Health Care</a>
                         </h5>
                         <p class="offset" style="text-align:justify">
 						Our Health Care Mobile App is another way of
@@ -134,7 +134,7 @@ can execute instantly!!
                             <img src="images/mobile_travel.png" alt=""/>
                         </div>
                         <h5>
-                            <a href='#'>Travel & Hospitality (Flight, Car, Hotel)</a>
+                            <a href='javascript:void(0);'>Travel & Hospitality (Flight, Car, Hotel)</a>
                         </h5>
                         <p class="offset" style="text-align:justify">
 						The recent research shows that 80 percent of mobile
@@ -175,7 +175,6 @@ For health care, you could use mobile devices to provide
 records; access to formularies, policies, and procedures;
 even patient charts—and all at the patient’s bedside.
 					</p>
-                    <a href="#" class="btn-primary btn-primary__md btn-off">Learn more</a>
                 </div>
 
             </div>
@@ -188,42 +187,42 @@ even patient charts—and all at the patient’s bedside.
                     <div class="col-md-4 wow fadeInLeft" data-wow-delay="0.2s">
                         <ul class="marked-list offset-1" style="margin-top:25px;">
                             <li>
-                                <a href='#'>Mobile Insurance
+                                <a href='javascript:void(0);'>Mobile Insurance
                                 </a>
                             </li>
                             <li>
-                                <a href='#'>Mobile Banking</a>
+                                <a href='javascript:void(0);'>Mobile Banking</a>
                             </li>
                             <li>
-                                <a href='#'>Mobile Media & Publishing</a>
+                                <a href='javascript:void(0);'>Mobile Media & Publishing</a>
                             </li>
                         </ul>
                     </div>
                     <div class="col-md-4 wow fadeInLeft" data-wow-delay="0.2s">
                         <ul class="marked-list offset-1" style="margin-top:25px;">
                             <li>
-                                <a href='#'>Mobile Retail,Coupons
+                                <a href='javascript:void(0);'>Mobile Retail,Coupons
                                 </a>
                             </li>
                             <li>
-                                <a href='#'>Mobile Travel & Tickets</a>
+                                <a href='javascript:void(0);'>Mobile Travel & Tickets</a>
                             </li>
                             <li>
-                                <a href='#'>Mobile Billing & Payments</a>
+                                <a href='javascript:void(0);'>Mobile Billing & Payments</a>
                             </li>
                         </ul>
                     </div>
 					<div class="col-md-4 wow fadeInLeft" data-wow-delay="0.2s">
                         <ul class="marked-list offset-1" style="margin-top:25px;">
                             <li>
-                                <a href='#'>Mobile Reading & learning
+                                <a href='javascript:void(0);'>Mobile Reading & learning
                                 </a>
                             </li>
                             <li>
-                                <a href='#'>Mobile Social & Marketing</a>
+                                <a href='javascript:void(0);'>Mobile Social & Marketing</a>
                             </li>
                             <li>
-                                <a href='#'>Mobile Tracking & Reports</a>
+                                <a href='javascript:void(0);'>Mobile Tracking & Reports</a>
                             </li>
                         </ul>
                     </div>

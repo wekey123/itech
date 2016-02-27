@@ -24,7 +24,7 @@
                     <div class="col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="0.4s">
                         <div class="icon-block icon-block__lg fa-windows">
                             <h5>
-                                <a href='#'>Microsoft Applications</a>
+                                <a href='javascript:void(0);'>Microsoft Applications</a>
                             </h5>
                             <p style="text-align:justify">
 							We provide solutions on Windows Mobile.Consumers or internal employees can refer the content and Documents in SharePoint Mobile User interface.
@@ -36,7 +36,7 @@
                     <div class="col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="0.2s">
                         <div class="icon-block icon-block__lg fa-wrench">
                             <h5>
-                                <a href='#'>SAP Applications</a>
+                                <a href='javascript:void(0);'>SAP Applications</a>
                             </h5>
                             <p style="text-align:justify">
 							SAP has comprehensive range of business software and enterprise applications to support and empower large, medium or small businesses.
@@ -48,7 +48,7 @@
                     <div class="col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="0.2s">
                         <div class="icon-block icon-block__lg  fa-database">
                             <h5>
-                                <a href='#'>Oracle Application</a>
+                                <a href='javascript:void(0);'>Oracle Application</a>
                             </h5>
                             <p style="text-align:justify">
 							Our oracle practice specializes in helping clients implement and maintain Oracle's E-Business Suite and PeopleSoft.
@@ -60,7 +60,7 @@
                     <div class="col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="0.4s">
                         <div class="icon-block icon-block__lg fa-cogs ">
                             <h5>
-                                <a href='#'>Infrastructure & Cloud Computing Services</a>
+                                <a href='javascript:void(0);'>Infrastructure & Cloud Computing Services</a>
                             </h5>
                            <p>
 							We offer solutions that will enable you to migrate from your existing IT environment to a newer, more cost-effective one. 
@@ -100,7 +100,7 @@
                             <img src="images/it3.png" alt="" style="height:220px"/>
                         </div>
                         <h5>
-                            <a href='#'>System Maintenance and Support</a>
+                            <a href='javascript:void(0);'>System Maintenance and Support</a>
                         </h5>
                         <p class="offset" style="text-align:justify">
 
@@ -119,7 +119,7 @@
                             <img src="images/it2.png" alt=""/>
                         </div>
                         <h5>
-                            <a href='#'>Database support</a>
+                            <a href='javascript:void(0);'>Database support</a>
                         </h5>
                         <p class="offset" style="text-align:justify">
 						We offer each of our core remote management services for all major database platforms, 
@@ -137,7 +137,7 @@
                             <img src="images/it1.jpg" alt=""/>
                         </div>
                         <h5>
-                            <a href='#'>Middleware Support</a>
+                            <a href='javascript:void(0);'>Middleware Support</a>
                         </h5>
                         <p class="offset" style="text-align:justify">
 						ALSB, Data power, Message Broker, MQ and BizTalk and third party middleware products.
@@ -161,7 +161,6 @@ Middleware is also the infrastructure which facilitates creation of business app
 					Our experienced professionals will guide your enterprise towards the achievement of your business objectives while fully respecting your budget and timeline.
 					Our Infrastructure team offers extensive proficiency in the design, development,Implementation and maintenance of your applications.
 					</p>
-                    <a href="#" class="btn-primary btn-primary__md btn-off">Learn more</a>
                 </div>
 
             </div>
@@ -174,59 +173,59 @@ Middleware is also the infrastructure which facilitates creation of business app
                     <div class="col-md-4 wow fadeInLeft" data-wow-delay="0.2s">
 
                         <h5>
-                            <a href='#'>SAP business applications</a>
+                            <a href='javascript:void(0);'>SAP business applications</a>
                         </h5>
                        
                         <ul class="marked-list offset-1" style="margin-top:25px;">
                             <li>
-                                <a href='#'>SAP Customer Relationship Management
+                                <a href='javascript:void(0);'>SAP Customer Relationship Management
                                 </a>
                             </li>
                             <li>
-                                <a href='#'>SAP Net weaver and third party software support.</a>
+                                <a href='javascript:void(0);'>SAP Net weaver and third party software support.</a>
                             </li>
                             <li>
-                                <a href='#'>SAP Business Objects
+                                <a href='javascript:void(0);'>SAP Business Objects
                                 </a>
                             </li>
 							<li>
-                                <a href='#'>SAP ERP Solutions
+                                <a href='javascript:void(0);'>SAP ERP Solutions
                                 </a>
                             </li>
                             <li>
-                                <a href='#'>SAP Net weaver  </a>
+                                <a href='javascript:void(0);'>SAP Net weaver  </a>
                             </li>
 							<li>
-                                <a href='#'>SAP third party software support </a>
+                                <a href='javascript:void(0);'>SAP third party software support </a>
                             </li>
                         </ul>
                     </div>
                     <div class="col-md-4 wow fadeInLeft" data-wow-delay="0.4s">
                         <h5>
-                            <a href='#'>Oracle Application Support</a>
+                            <a href='javascript:void(0);'>Oracle Application Support</a>
                         </h5>
                         
                          <ul class="marked-list offset-1" style="margin-top:25px;">
                             <li>
-                                <a href='#'>Enterprise Architecture & Design
+                                <a href='javascript:void(0);'>Enterprise Architecture & Design
                                 </a>
                             </li>
                             <li>
-                                <a href='#'>Data Analytics & Quality</a>
+                                <a href='javascript:void(0);'>Data Analytics & Quality</a>
                             </li>
                             <li>
-                                <a href='#'>Oracle CRM Solutions
+                                <a href='javascript:void(0);'>Oracle CRM Solutions
                                 </a>
                             </li>
 							 <li>
-                                <a href='#'>ALSB, Data power Support
+                                <a href='javascript:void(0);'>ALSB, Data power Support
                                 </a>
                             </li>
                             <li>
-                                <a href='#'>Road Map, Strategy Planning & Guidelines</a>
+                                <a href='javascript:void(0);'>Road Map, Strategy Planning & Guidelines</a>
                             </li>
                             <li>
-                                <a href='#'>Software Product Development
+                                <a href='javascript:void(0);'>Software Product Development
                                 </a>
                             </li>
                         </ul>
@@ -234,31 +233,31 @@ Middleware is also the infrastructure which facilitates creation of business app
 					
 					 <div class="col-md-4 wow fadeInLeft" data-wow-delay="0.4s">
                         <h5>
-                            <a href='#'>Cloud computing and Infrastructure Solutions</a>
+                            <a href='javascript:void(0);'>Cloud computing and Infrastructure Solutions</a>
                         </h5>
                         
                          <ul class="marked-list offset-1" style="margin-top:25px;">
                             <li>
-                                <a href='#'>Process Management
+                                <a href='javascript:void(0);'>Process Management
                                 </a>
                             </li>
                             <li>
-                                <a href='#'>Business Intelligence & Reporting</a>
+                                <a href='javascript:void(0);'>Business Intelligence & Reporting</a>
                             </li>
                             <li>
-                                <a href='#'>Enterprise Cloud Computing & Networks
+                                <a href='javascript:void(0);'>Enterprise Cloud Computing & Networks
 
                                 </a>
                             </li>
 							 <li>
-                                <a href='#'>Service Oriented Architecture, B2B, Business
+                                <a href='javascript:void(0);'>Service Oriented Architecture, B2B, Business
                                 </a>
                             </li>
                             <li>
-                                <a href='#'>eBusiness Internet Applications</a>
+                                <a href='javascript:void(0);'>eBusiness Internet Applications</a>
                             </li>
                             <li>
-                                <a href='#'>User Interface solutions
+                                <a href='javascript:void(0);'>User Interface solutions
                                 </a>
                             </li>
                         </ul>

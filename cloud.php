@@ -24,19 +24,19 @@
                     <div class="col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="0.4s">
                         <div class="icon-block icon-block__lg fa-soundcloud">
                             <h5>
-                                <a href='#'>Infrastructure As A Service ( IAAS)</a>
+                                <a href='javascript:void(0);'>Infrastructure As A Service ( IAAS)</a>
                             </h5>
                             <p>
 							<ul class="marked-list offset-1" style="margin-top:25px;">
                             <li>
-                                <a href='#'>Zero Investment for Infrastructure
+                                <a href='javascript:void(0);'>Zero Investment for Infrastructure
                                 </a>
                             </li>
                             <li>
-                                <a href='#'>Completely Scalable</a>
+                                <a href='javascript:void(0);'>Completely Scalable</a>
                             </li>
                             <li>
-                                <a href='#'>Reliable and Secure
+                                <a href='javascript:void(0);'>Reliable and Secure
                                 </a>
                             </li></ul></p>
                         </div>
@@ -44,19 +44,19 @@
                     <div class="col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="0.2s">
                         <div class="icon-block icon-block__lg fa-cloud-upload">
                             <h5>
-                                <a href='#'>Software As A Service ( SAAS)</a>
+                                <a href='javascript:void(0);'>Software As A Service ( SAAS)</a>
                             </h5>
                             <p>
 								<ul class="marked-list offset-1" style="margin-top:25px;">
                             <li>
-                                <a href='#'>No more need for buying a software
+                                <a href='javascript:void(0);'>No more need for buying a software
                                 </a>
                             </li>
                             <li>
-                                <a href='#'>Completely Scalable</a>
+                                <a href='javascript:void(0);'>Completely Scalable</a>
                             </li>
                             <li>
-                                <a href='#'>Reliable and Secure
+                                <a href='javascript:void(0);'>Reliable and Secure
                                 </a>
                             </li></ul>
 							</p>
@@ -65,19 +65,19 @@
                     <div class="col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="0.2s">
                         <div class="icon-block icon-block__lg  fa-cloud-download">
                             <h5>
-                                <a href='#'>Platform As A Service ( PAAS )</a>
+                                <a href='javascript:void(0);'>Platform As A Service ( PAAS )</a>
                             </h5>
                             <p>
 								<ul class="marked-list offset-1" style="margin-top:25px;">
                             <li>
-                                <a href='#'>No need to buy a Operating System
+                                <a href='javascript:void(0);'>No need to buy a Operating System
                                 </a>
                             </li>
                             <li>
-                                <a href='#'>Completely License</a>
+                                <a href='javascript:void(0);'>Completely License</a>
                             </li>
                             <li>
-                                <a href='#'>Reliable and Secure
+                                <a href='javascript:void(0);'>Reliable and Secure
                                 </a>
                             </li></ul>
 							</p>
@@ -86,19 +86,19 @@
                     <div class="col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="0.4s">
                         <div class="icon-block icon-block__lg fa-shield ">
                             <h5>
-                                <a href='#'>Networks & Security</a>
+                                <a href='javascript:void(0);'>Networks & Security</a>
                             </h5>
                            <p>
 								<ul class="marked-list offset-1" style="margin-top:25px;">
                             <li>
-                                <a href='#'>Firewall
+                                <a href='javascript:void(0);'>Firewall
                                 </a>
                             </li>
                             <li>
-                                <a href='#'>Switches & Routers</a>
+                                <a href='javascript:void(0);'>Switches & Routers</a>
                             </li>
                             <li>
-                                <a href='#'>Capacity Planning, Security, IDS
+                                <a href='javascript:void(0);'>Capacity Planning, Security, IDS
                                 </a>
                             </li></ul>
 							</p>
@@ -140,7 +140,7 @@ cloud?</strong><br>
                             <img src="images/cloud4.png" alt=""/>
                         </div>
                         <h5>
-                            <a href='#'>Cloud computing Infrastructure</a>
+                            <a href='javascript:void(0);'>Cloud computing Infrastructure</a>
                         </h5>
                         <p class="offset" style="text-align:justify">We offer world Class cloud computing Infrastructure.We provide a world class security to our cloud computing environment. <br>
 Advanced and reliable methodology of Data
@@ -165,7 +165,7 @@ quick data processing. </p>
                             <img src="images/cloud1.png" alt=""/>
                         </div>
                         <h5>
-                            <a href='#'>Cloud Support</a>
+                            <a href='javascript:void(0);'>Cloud Support</a>
                         </h5>
                         <p class="offset" style="text-align:justify">
 						We use 24x7x365 model to support our clients.
@@ -197,7 +197,7 @@ quick data processing. </p>
                             <img src="images/cloud2.png" alt=""/>
                         </div>
                         <h5>
-                            <a href='#'>Our Standards</a>
+                            <a href='javascript:void(0);'>Our Standards</a>
                         </h5>
                         <p class="offset" style="text-align:justify">
 						Our next-generation thinking has helped us
@@ -241,7 +241,6 @@ solutions to specific operational
 						analyses can be performed or supplemented
 						with outside help, or remain entirely in-house
 					</p>
-                    <a href="#" class="btn-primary btn-primary__md btn-off">Learn more</a>
                 </div>
 
             </div>
@@ -254,30 +253,30 @@ solutions to specific operational
                     <div class="col-md-4 wow fadeInLeft" data-wow-delay="0.2s">
 
                         <h5>
-                            <a href='#'>Service management and Delivery Process</a>
+                            <a href='javascript:void(0);'>Service management and Delivery Process</a>
                         </h5>
                        
                         <ul class="marked-list offset-1" style="margin-top:25px;">
                             <li>
-                                <a href='#'>Define Critical Key SLAs
+                                <a href='javascript:void(0);'>Define Critical Key SLAs
                                 </a>
                             </li>
                             <li>
-                                <a href='#'>Monthly reports of SLA</a>
+                                <a href='javascript:void(0);'>Monthly reports of SLA</a>
                             </li>
                             <li>
-                                <a href='#'>SLA Portal
+                                <a href='javascript:void(0);'>SLA Portal
                                 </a>
                             </li>
 							<li>
-                                <a href='#'>Knowledge Repository
+                                <a href='javascript:void(0);'>Knowledge Repository
                                 </a>
                             </li>
                             <li>
-                                <a href='#'>Patch management and Inventory </a>
+                                <a href='javascript:void(0);'>Patch management and Inventory </a>
                             </li>
                             <li>
-                                <a href='#'>Technology Refresh
+                                <a href='javascript:void(0);'>Technology Refresh
                                 </a>
                             </li>
 							
@@ -285,30 +284,30 @@ solutions to specific operational
                     </div>
                     <div class="col-md-4 wow fadeInLeft" data-wow-delay="0.4s">
                         <h5>
-                            <a href='#'>Availability and Capacity Management</a>
+                            <a href='javascript:void(0);'>Availability and Capacity Management</a>
                         </h5>
                         
                          <ul class="marked-list offset-1" style="margin-top:25px;">
                             <li>
-                                <a href='#'>Measure Against defined SLA
+                                <a href='javascript:void(0);'>Measure Against defined SLA
                                 </a>
                             </li>
                             <li>
-                                <a href='#'>Production performance report</a>
+                                <a href='javascript:void(0);'>Production performance report</a>
                             </li>
                             <li>
-                                <a href='#'>Monthly Downtime report
+                                <a href='javascript:void(0);'>Monthly Downtime report
                                 </a>
                             </li>
 							 <li>
-                                <a href='#'>Proactive Capacity Planning
+                                <a href='javascript:void(0);'>Proactive Capacity Planning
                                 </a>
                             </li>
                             <li>
-                                <a href='#'>Constant Review of Capacity Reports</a>
+                                <a href='javascript:void(0);'>Constant Review of Capacity Reports</a>
                             </li>
                             <li>
-                                <a href='#'>User Interface solutions
+                                <a href='javascript:void(0);'>User Interface solutions
                                 </a>
                             </li>
                         </ul>
@@ -316,30 +315,30 @@ solutions to specific operational
 					
 					 <div class="col-md-4 wow fadeInLeft" data-wow-delay="0.4s">
                         <h5>
-                            <a href='#'>Incident Problem Management</a>
+                            <a href='javascript:void(0);'>Incident Problem Management</a>
                         </h5>
                         
                          <ul class="marked-list offset-1" style="margin-top:25px;">
                             <li>
-                                <a href='#'>Strong Metric and Trend analysis
+                                <a href='javascript:void(0);'>Strong Metric and Trend analysis
                                 </a>
                             </li>
                             <li>
-                                <a href='#'>Resolution,Recovery & Closure Process</a>
+                                <a href='javascript:void(0);'>Resolution,Recovery & Closure Process</a>
                             </li>
                             <li>
-                                <a href='#'>Root Cause Analysis
+                                <a href='javascript:void(0);'>Root Cause Analysis
                                 </a>
                             </li>
 							 <li>
-                                <a href='#'>Major incident review Process
+                                <a href='javascript:void(0);'>Major incident review Process
                                 </a>
                             </li>
                             <li>
-                                <a href='#'>Weekly status Reports</a>
+                                <a href='javascript:void(0);'>Weekly status Reports</a>
                             </li>
                             <li>
-                                <a href='#'>Control and Co-ordinance of changes
+                                <a href='javascript:void(0);'>Control and Co-ordinance of changes
                                 </a>
                             </li>
                         </ul>
