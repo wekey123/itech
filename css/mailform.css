@@ -26,7 +26,7 @@
   display: block;
   width: 100%;
   margin-top: 15px;
-  z-index: 1; }
+  /*z-index: 1*/; }
   .mailform label:first-child {
     margin-top: 0; }
   .mailform label input, .mailform label select, .mailform label textarea {
