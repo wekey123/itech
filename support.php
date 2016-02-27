@@ -12,7 +12,6 @@
 <style>
 .tab_left{
 	float:left;
-	margin-left:20px;
 }
 .tabinfo {
     border: 5px solid #e8e7e8;
@@ -62,25 +61,25 @@
 
                 <div class="row row__off-2">
                     
-                    <div class="col-md-12 col-sm-12 col-xs-12">
+                    <div class="col-md-12 col-sm-12 col-xs-12" style="margin-top:0px;">
 						<div class="col-md-3 col-sm-3 col-xs-12" style="font-family:Arial, Helvetica, sans-serif">
 							<address class="addr"><p class="h5">System Maintenance</p></address>
 							<p class="mail-secondary">
 							<ul class="marked-list offset-1" style="margin-top:25px;">
 								<li>
-									<a href='#'>Operating system patches/updates</a>
+									<a href='javascript:void(0);'>Operating system patches/updates</a>
 								</li>
 								<li>
-									<a href='#'>Amazon cloud</a>
+									<a href='javascript:void(0);'>Amazon cloud</a>
 								</li>
 								<li>
-									<a href='#'>Windows system</a>
+									<a href='javascript:void(0);'>Windows system</a>
 								</li>
 								<li>
-									<a href='#'>Linux on Intel</a>
+									<a href='javascript:void(0);'>Linux on Intel</a>
 								</li>
 								<li>
-									<a href='#'>VMware and Unix systems support</a>
+									<a href='javascript:void(0);'>VMware and Unix systems support</a>
 								</li>
 								
 							</ul>
@@ -91,25 +90,19 @@
 							<p class="mail-secondary">
 							<ul class="marked-list offset-1" style="margin-top:25px;">
 								<li>
-									<a href='#'>J2EE Application,</a>
+									<a href='javascript:void(0);'>J2EE Application and  ASP .NET Application</a>
 								</li>
 								<li>
-									<a href='#'>ASP .NET Application</a>
+									<a href='javascript:void(0);'>Siebel CRM application</a>
 								</li>
 								<li>
-									<a href='#'>Siebel CRM application</a>
+									<a href='javascript:void(0);'>SAP Application and Business Objects </a>
 								</li>
 								<li>
-									<a href='#'>SAP Application</a>
+									<a href='javascript:void(0);'>Collaboration – SharePoint team site</a>
 								</li>
 								<li>
-									<a href='#'>Collaboration – SharePoint team site</a>
-								</li>
-								<li>
-									<a href='#'>SAP Business Objects</a>
-								</li>
-								<li>
-									<a href='#'>SAP Net weaver and third party software support </a>
+									<a href='javascript:void(0);'>SAP Net weaver and third party software support </a>
 								</li>
 								
 							</ul>
@@ -120,17 +113,17 @@
 							<p class="mail-secondary">
 							<ul class="marked-list offset-1" style="margin-top:25px;">
 								<li>
-									<a href='#'>Define technical standards</a>
+									<a href='javascript:void(0);'>Define technical standards</a>
 								</li>
 								<li>
-									<a href='#'>Architectural Design</a>
+									<a href='javascript:void(0);'>Architectural Design</a>
 								</li>
 								<li>
-									<a href='#'>Identify data and security requirements
+									<a href='javascript:void(0);'>Identify data and security requirements
 									</a>
 								</li>
 								<li>
-									<a href='#'>Identify and integrate existing resources.
+									<a href='javascript:void(0);'>Identify and integrate existing resources.
 									</a>
 								</li>
 							</ul>
@@ -141,13 +134,13 @@
 							<p class="mail-secondary">
 							<ul class="marked-list offset-1" style="margin-top:25px;">
 								<li>
-									<a href='#'>Switches</a>
+									<a href='javascript:void(0);'>Switches</a>
 								</li>
 								<li>
-									<a href='#'>Routers</a>
+									<a href='javascript:void(0);'>Routers</a>
 								</li>
 								<li>
-									<a href='#'>Firewall and Load balancer
+									<a href='javascript:void(0);'>Firewall and Load balancer
 									</a>
 								</li>
 							</ul>
@@ -157,97 +150,101 @@
                     </div>
                 </div>
 				
-				 <div class="row row__off-2">
-					<div class="col-md-12 col-sm-12 col-xs-12">
-                        <div class="col-md-6 col-sm-6 col-xs-12">
-							<address class="addr"><p class="h5">Support operation Benefits</p></address>
-							<p class="mail-secondary">
-							<ul class="marked-list offset-1" style="margin-top:25px;">
+				 <div class="row row__off-2" style="margin-top:0px;">
+					<div class="col-md-12 col-sm-12 col-xs-12"  style="margin-top:0px;">
+                        <div class="col-md-6 col-sm-6 col-xs-12" style="margin-top:10px;">
+							<address class="addr"><p class="h5" style="margin:5px 0px 15px 0px;">Support operation Benefits</p></address>
+							<h4 style="font-size:13px;">24X7 technical supports:</h4>
+							<p style="margin:5px 0px;">We provide 24X7 technical supports to help the clients in using the final product.</p>
+							
+							<h4 style="font-size:13px;">Constant upholding support:</h4>
+							<p style="margin:5px 0px;">We also provide a constant upholding support for our customers.</p>
+							
+							<h4 style="font-size:13px;">Amplify IT efficiency:</h4>
+							<p style="margin:5px 0px;">Amplify IT efficiency, reduce disturbance, and deliver higher application availability.</p>
+							
+							<h4 style="font-size:13px;">Database support:</h4>
+							<p style="margin:5px 0px;">MS SQL server, DB2 , UDB, Oracle SQL Server and Sybase support.</p>
+							
+							<h4 style="font-size:13px;">Middleware Supports:</h4>
+							<p style="margin:5px 0px;">ALSB, Data power, Message Broker, MQ and BizTalk and third party middleware products . </p>
+						</div>
+						
+						<div class="col-md-6 col-sm-6 col-xs-12" style="margin-top:10px;">
+							<address class="addr"><p class="h5" style="margin:5px 0px 15px 0px;">INFRASTRUCTURE SERVICE AND SUPPORT MODEL</p></address>
+							<p class="mail-secondary" style="margin:5px 5px;">Our Service – Support model consists of four elements based on Service Level management</p>
+							
+							<ul class="marked-list offset-1" style="margin-top:15px;">
 								<li>
-									<a href='#'><b style="font-weight:bold;">24X7 technical supports:</b><br>
-	We provide 24X7 technical supports to help the clients in using the final product.
-									</a>
+									<a href='javascript:void(0);'>Change management</a>
 								</li>
 								<li>
-									<a href='#'><b style="font-weight:bold;">Constant upholding support:</b><br>
-	<span>We also provide a constant upholding support for our customers.</span></a>
+									<a href='javascript:void(0);'>Availability and Capacity management</a>
 								</li>
 								<li>
-									<a href='#'><b style="font-weight:bold;">Amplify IT efficiency:</b><br>
-	Amplify IT efficiency, reduce disturbance, and deliver higher application availability.
-									</a>
+									<a href='javascript:void(0);'>Service Delivery Process</a>
 								</li>
 								<li>
-									<a href='#'><b style="font-weight:bold;">Database support:</b><br>
-	MS SQL server, DB2 , UDB, Oracle SQL Server and Sybase support.
-									</a>
+									<a href='javascript:void(0);'>Incident / Problem Management</a>
 								</li>
-								<li>
-									<a href='#'><b style="font-weight:bold;">Middleware Supports:</b><br>
-	ALSB, Data power, Message Broker, MQ and BizTalk and third party middleware products . </a>
-								</li>
-								
 							</ul>
-							</p>
-						</div>
-						
-						<div class="col-md-6 col-sm-6 col-xs-12">
-						
-							<div style="height: auto;">
-              <div class="tab_left">
-                <div class="pagetitle" style="text-align: center;">Support Model</div>
-                <table class="tabinfo" cellspacing="0">
-                  <tbody><tr>
-                    <th>Support</th>
-                    <th>Duration</th>
-                  </tr>
-                  <tr>
-                    <td class="td_head">Level 1</td>
-                    <td class="td_con">24/7 X 365</td>
-                  </tr>
-                  <tr class="odd_clr">
-                    <td class="td_head">Level 2</td>
-                    <td class="td_con">10/7 X 365</td>
-                  </tr>
-                  <tr>
-                    <td class="td_head">Level 3</td>
-                    <td class="td_con">10/5</td>
-                  </tr>
-                  <tr class="odd_clr">
-                    <td class="td_head">Level 4</td>
-                    <td class="td_con">8/5 and 8/7 X 365</td>
-                  </tr>
-                </tbody></table>
-              </div>
+							<div style="height: auto;margin-top:10px;">
+							  <div class="tab_left">
+								<div class="pagetitle" style="text-align: center;font-weight:bold">Support Model</div>
+									<table class="tabinfo" cellspacing="0">
+										 <tbody><tr>
+											<th>Support</th>
+											<th>Duration</th>
+										  </tr>
+										  <tr>
+											<td class="td_head">Level 1</td>
+											<td class="td_con">24/7 X 365</td>
+										  </tr>
+										  <tr class="odd_clr">
+											<td class="td_head">Level 2</td>
+											<td class="td_con">10/7 X 365</td>
+										  </tr>
+										  <tr>
+											<td class="td_head">Level 3</td>
+											<td class="td_con">10/5</td>
+										  </tr>
+										  <tr class="odd_clr">
+											<td class="td_head">Level 4</td>
+											<td class="td_con">8/5 and 8/7 X 365</td>
+										  </tr>
+										</tbody>
+									</table>
+								</div>
              
-              <div class="tab_left">
-                <div class="pagetitle" style="text-align: center;">SLA Model</div>
-                <table class="tabinfo" cellspacing="0">
-                  <tbody><tr>
-                    <th>Support</th>
-                    <th>Duration</th>
-                  </tr>
-                  <tr>
-                    <td class="td_head">Level 1</td>
-                    <td class="td_con">8 hrs</td>
-                  </tr>
-                  <tr class="odd_clr">
-                    <td class="td_head">Level 2</td>
-                    <td class="td_con">16 hrs</td>
-                  </tr>
-                  <tr>
-                    <td class="td_head">Level 3</td>
-                    <td class="td_con">24 hrs</td>
-                  </tr>
-                  <tr class="odd_clr">
-                    <td class="td_head">Level 4</td>
-                    <td class="td_con">36 hrs</td>
-                  </tr>
-                </tbody></table>
-              </div>
-            </div>
+							  <div class="tab_left" style="margin-left:30px">
+								 <div class="pagetitle" style="text-align: center;font-weight:bold">SLA Model</div>
+									<table class="tabinfo" cellspacing="0">
+										  <tbody><tr>
+											<th>Support</th>
+											<th>Duration</th>
+										  </tr>
+										  <tr>
+											<td class="td_head">Level 1</td>
+											<td class="td_con">8 hrs</td>
+										  </tr>
+										  <tr class="odd_clr">
+											<td class="td_head">Level 2</td>
+											<td class="td_con">16 hrs</td>
+										  </tr>
+										  <tr>
+											<td class="td_head">Level 3</td>
+											<td class="td_con">24 hrs</td>
+										  </tr>
+										  <tr class="odd_clr">
+											<td class="td_head">Level 4</td>
+											<td class="td_con">36 hrs</td>
+										  </tr>
+										</tbody>
+									</table>
+								</div>
+							 </div>
 						
-						</div>
+							</div>
 						
 					</div>
 				 </div>
